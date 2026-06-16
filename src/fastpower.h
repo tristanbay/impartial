@@ -1,6 +1,6 @@
 #pragma once
 
-#define POWER_ITER 20 // number of Maclaurin series iterations
+#define POWER_ITER 15 // number of Maclaurin series iterations
 #define LOG_ITER 6 // number of Newton's method iterations
 
 double fastPow(double, double);
